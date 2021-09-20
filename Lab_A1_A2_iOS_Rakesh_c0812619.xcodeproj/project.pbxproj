@@ -15,6 +15,7 @@
 		0445CB7526F84542008810DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0445CB7326F84542008810DE /* LaunchScreen.storyboard */; };
 		0445CB7E26F846ED008810DE /* ProductsProvidersTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0445CB7C26F846ED008810DE /* ProductsProvidersTVC.swift */; };
 		0445CB7F26F846ED008810DE /* ProductVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0445CB7D26F846ED008810DE /* ProductVC.swift */; };
+		0445CB8126F84815008810DE /* ProductTVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0445CB8026F84815008810DE /* ProductTVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		0445CB7626F84542008810DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0445CB7C26F846ED008810DE /* ProductsProvidersTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductsProvidersTVC.swift; sourceTree = "<group>"; };
 		0445CB7D26F846ED008810DE /* ProductVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductVC.swift; sourceTree = "<group>"; };
+		0445CB8026F84815008810DE /* ProductTVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductTVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 			children = (
 				0445CB6526F84541008810DE /* AppDelegate.swift */,
 				0445CB6726F84541008810DE /* SceneDelegate.swift */,
+				0445CB8026F84815008810DE /* ProductTVC.swift */,
 				0445CB7C26F846ED008810DE /* ProductsProvidersTVC.swift */,
 				0445CB7D26F846ED008810DE /* ProductVC.swift */,
 				0445CB6B26F84541008810DE /* Main.storyboard */,
@@ -146,6 +149,7 @@
 				0445CB7F26F846ED008810DE /* ProductVC.swift in Sources */,
 				0445CB7026F84541008810DE /* Lab_A1_A2_iOS_Rakesh_c0812619.xcdatamodeld in Sources */,
 				0445CB6626F84541008810DE /* AppDelegate.swift in Sources */,
+				0445CB8126F84815008810DE /* ProductTVC.swift in Sources */,
 				0445CB6826F84541008810DE /* SceneDelegate.swift in Sources */,
 				0445CB7E26F846ED008810DE /* ProductsProvidersTVC.swift in Sources */,
 			);
